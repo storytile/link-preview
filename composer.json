@@ -25,13 +25,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Dusterio\\LinkPreview\\": "src/"
+            "Storytile\\LinkPreview\\": "src/"
         }
     },
     "extra":{
         "laravel": {
             "providers": [
-                "Dusterio\\LinkPreview\\Integrations\\LaravelServiceProvider"
+                "Storytile\\LinkPreview\\Integrations\\LaravelServiceProvider"
             ]
         }
     }
