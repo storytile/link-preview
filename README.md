@@ -1,3 +1,6 @@
+# Temporary Fork
+A temporary fork of [dusterio/link-preview](https://github.com/dusterio/link-preview) until it eventually gets Laravel 10 support.
+
 # Link Preview 
 [![Build Status](https://travis-ci.org/dusterio/link-preview.svg)](https://travis-ci.org/dusterio/link-preview)
 [![Code Climate](https://codeclimate.com/github/dusterio/link-preview/badges/gpa.svg)](https://codeclimate.com/github/dusterio/link-preview/badges)
